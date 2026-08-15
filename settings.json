@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WhyXSmp.Aternos.Me",
+    "ip": "WhyXSmp.Aternos.Me:36250",
     "port": 36250,
     "version": "1.21.4",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "123qq123"
     },
     "anti-afk": {
       "enabled": true,
