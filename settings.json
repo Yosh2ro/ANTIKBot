@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WhyXSmp.Aternos.Me:36250",
+    "ip": "WhyXSmp.aternos.me",
     "port": 36250,
-    "version": "1.21.4",
+    "version": "",
     "try-creative": false
   },
   "position": {
